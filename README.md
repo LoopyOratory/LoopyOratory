@@ -63,8 +63,8 @@ Most of my work is aimed at how people actually use the internet here: mobile-fi
     </td>
     <td width="50%" valign="top">
       <b><a href="https://github.com/LoopyOratory/bun-telegram-download-bot">Telegram Download Bot</a></b><br/>
-      A fast Telegram media downloader built on Bun, powered by yt-dlp.<br/>
-      <sub>Bun · grammY · yt-dlp</sub>
+      A fast Telegram media downloader built on Bun, powered by yt&#8209;dlp.<br/>
+      <sub>Bun · grammY · yt&#8209;dlp</sub>
     </td>
   </tr>
 </table>
