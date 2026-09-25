@@ -46,25 +46,25 @@ Most of my work is aimed at how people actually use the internet here: mobile-fi
   <tr>
     <td width="50%" valign="top">
       <b><a href="https://github.com/LoopyOratory/BunWa">BunWa</a></b><br/>
-      A WhatsApp HTTP API server on the Bun runtime. A WAHA-compatible rewrite: the same API surface at a fraction of the resource cost.<br/>
+      WhatsApp HTTP API server on Bun: WAHA-compatible, the same API surface at a fraction of the resource cost.<br/>
       <sub>Bun · Hono</sub>
     </td>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/LoopyOratory/whatsapp-business-kit">whatsapp-business-kit</a></b><br/>
-      Agency-in-a-box for Ghanaian SMEs: catalog, orders, payments and broadcasts, all on WhatsApp.<br/>
+      <b><a href="https://github.com/LoopyOratory/whatsapp-business-kit">WhatsApp Business Kit</a></b><br/>
+      Agency-in-a-box for Ghanaian SMEs: catalog, orders, payments and broadcasts on WhatsApp.<br/>
       <sub>WhatsApp Business API</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/LoopyOratory/openwa-mcp">openwa-mcp</a></b><br/>
+      <b><a href="https://github.com/LoopyOratory/openwa-mcp">OpenWA MCP</a></b><br/>
       A Model Context Protocol server that gives AI agents a WhatsApp interface.<br/>
       <sub>MCP · WhatsApp</sub>
     </td>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/LoopyOratory/bun-telegram-download-bot">bun-telegram-download-bot</a></b><br/>
+      <b><a href="https://github.com/LoopyOratory/bun-telegram-download-bot">Telegram Download Bot</a></b><br/>
       A fast Telegram media downloader built on Bun, powered by yt-dlp.<br/>
-      <sub>Bun, grammY, yt-dlp</sub>
+      <sub>Bun · grammY · yt-dlp</sub>
     </td>
   </tr>
 </table>
