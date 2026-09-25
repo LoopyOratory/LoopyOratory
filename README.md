@@ -32,13 +32,9 @@ Most of my work is aimed at how people actually use the internet here: mobile-fi
 
 ![Docker](https://img.shields.io/badge/Docker-16171D?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-16171D?style=flat-square&logo=linux&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-16171D?style=flat-square&logo=cloudflare&logoColor=white) ![Git](https://img.shields.io/badge/Git-16171D?style=flat-square&logo=git&logoColor=white)
 
-**commerce and payments**
-
-![Medusa](https://img.shields.io/badge/Medusa-16171D?style=flat-square&logo=medusa&logoColor=white) ![Paystack](https://img.shields.io/badge/Paystack-16171D?style=flat-square)
-
 **ai**
 
-![Anthropic](https://img.shields.io/badge/Anthropic-16171D?style=flat-square&logo=anthropic&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google_Gemini-16171D?style=flat-square&logo=googlegemini&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-16171D?style=flat-square) ![MCP](https://img.shields.io/badge/MCP-16171D?style=flat-square)
+![Anthropic](https://img.shields.io/badge/Anthropic-16171D?style=flat-square&logo=anthropic&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google_Gemini-16171D?style=flat-square&logo=googlegemini&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-16171D?style=flat-square) ![DeepSeek](https://img.shields.io/badge/DeepSeek-16171D?style=flat-square&logo=deepseek&logoColor=white) ![MiMo](https://img.shields.io/badge/MiMo-16171D?style=flat-square&logo=xiaomi&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-16171D?style=flat-square)
 
 **quality and media**
 
@@ -46,14 +42,42 @@ Most of my work is aimed at how people actually use the internet here: mobile-fi
 
 ## selected work
 
-- **[BunWa](https://github.com/LoopyOratory/BunWa)**: a WhatsApp HTTP API server on the Bun runtime. A WAHA-compatible rewrite that delivers the same API surface at a fraction of the resource cost.
-- **[whatsapp-business-kit](https://github.com/LoopyOratory/whatsapp-business-kit)**: catalog, orders, payments and broadcasts for Ghanaian SMEs.
-- **[openwa-mcp](https://github.com/LoopyOratory/openwa-mcp)**: a Model Context Protocol server that gives AI agents a WhatsApp interface.
-- **[bun-telegram-download-bot](https://github.com/LoopyOratory/bun-telegram-download-bot)**: a fast Telegram media downloader built on Bun.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/LoopyOratory/BunWa">BunWa</a></b><br/>
+      A WhatsApp HTTP API server on the Bun runtime. A WAHA-compatible rewrite: the same API surface at a fraction of the resource cost.<br/>
+      <sub>Bun · Hono</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/LoopyOratory/whatsapp-business-kit">whatsapp-business-kit</a></b><br/>
+      Agency-in-a-box for Ghanaian SMEs: catalog, orders, payments and broadcasts, all on WhatsApp.<br/>
+      <sub>WhatsApp Business API</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/LoopyOratory/openwa-mcp">openwa-mcp</a></b><br/>
+      A Model Context Protocol server that gives AI agents a WhatsApp interface.<br/>
+      <sub>MCP · WhatsApp</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/LoopyOratory/bun-telegram-download-bot">bun-telegram-download-bot</a></b><br/>
+      A fast Telegram media downloader built on Bun, powered by yt-dlp.<br/>
+      <sub>Bun, grammY, yt-dlp</sub>
+    </td>
+  </tr>
+</table>
 
 ## currently building
 
-The **4vlt** family of Ghana-first products: a resume builder with grounded AI tailoring, a QR code platform for menus, files and dynamic codes, a sports odds and accumulator tracker, and a streaming front end. Alongside them, **Vivita**: a multi-vendor marketplace for African sellers, built on Medusa v2 with Paystack and mobile money checkout.
+Products in flight, built for Ghana first:
+
+- **resume.4vlt**: resume builder with grounded AI tailoring that cannot invent facts. 45 templates, ATS scoring.
+- **qr-code.4vlt**: QR platform for menus, files and dynamic codes. Scan analytics, bulk generation, API access.
+- **sports.4vlt**: sports odds and accumulator tracker on live data.
+- **movies.4vlt**: streaming front end for movies and series.
+- **Vivita**: multi-vendor marketplace on Medusa v2, with Paystack and mobile money checkout built in.
 
 ## stats
 
