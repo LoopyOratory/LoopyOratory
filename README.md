@@ -14,6 +14,8 @@ Ghana-based full-stack builder. I design, build and ship complete products solo:
 
 Most of my work is aimed at how people actually use the internet here: mobile-first, WhatsApp-first, with mobile money as a first-class payment method.
 
+I also run [EkoSystems](https://ekosystems.dev), a software company in Accra building AI-powered products.
+
 ## stack
 
 **core**
