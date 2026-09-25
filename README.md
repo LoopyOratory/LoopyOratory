@@ -58,8 +58,8 @@ The **4vlt** family of Ghana-first products: a resume builder with grounded AI t
 ## stats
 
 <p align="center">
-  <img width="495" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LoopyOratory&amp;theme=github_dark" alt="GitHub stats" />
-  <img width="495" src="https://streak-stats.demolab.com?user=LoopyOratory&amp;theme=dark&amp;background=0B0B10&amp;border=2A2A38&amp;ring=A78BFA&amp;fire=F472B6&amp;currStreakNum=FFFFFF&amp;sideNums=CDD1DB&amp;currStreakLabel=A78BFA&amp;sideLabels=9AA1AE&amp;dates=6B7280&amp;excludeDaysLabel=6B7280" alt="contribution streak" />
+  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LoopyOratory&amp;theme=github_dark" alt="GitHub stats" />
+  <img width="508" src="https://streak-stats.demolab.com?user=LoopyOratory&amp;theme=dark&amp;background=0B0B10&amp;border=2A2A38&amp;ring=A78BFA&amp;fire=F472B6&amp;currStreakNum=FFFFFF&amp;sideNums=CDD1DB&amp;currStreakLabel=A78BFA&amp;sideLabels=9AA1AE&amp;dates=6B7280&amp;excludeDaysLabel=6B7280" alt="contribution streak" />
 </p>
 <p align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LoopyOratory&amp;theme=github_dark" alt="profile details" />
